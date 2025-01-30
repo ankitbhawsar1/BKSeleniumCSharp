@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp Basic", "CSharp Basic\CSharp Basic.csproj", "{78474327-F8F5-404B-9887-BCFABC2B2753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumProject", "SeleniumProject\SeleniumProject.csproj", "{BB0A2C48-0839-48FE-9D5F-1F45477B7B29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumProject2", "SeleniumProject2\SeleniumProject2.csproj", "{C548F7F3-75A0-48B2-818D-C9C990242564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumCSharpFramework", "SeleniumCSharpFramework\SeleniumCSharpFramework.csproj", "{D3F20846-80AF-48DE-9AEF-9468DF060C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesforceProject", "SalesforceProject\SalesforceProject.csproj", "{9241928A-76CC-4EC2-AF30-91D48EA6B3A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumCSharpFramewrok_Allure", "SeleniumCSharpFramewrok_Allure\SeleniumCSharpFramewrok_Allure.csproj", "{77366E48-961D-4B5B-81C3-78F34ADF6C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78474327-F8F5-404B-9887-BCFABC2B2753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78474327-F8F5-404B-9887-BCFABC2B2753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78474327-F8F5-404B-9887-BCFABC2B2753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78474327-F8F5-404B-9887-BCFABC2B2753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0A2C48-0839-48FE-9D5F-1F45477B7B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0A2C48-0839-48FE-9D5F-1F45477B7B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0A2C48-0839-48FE-9D5F-1F45477B7B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0A2C48-0839-48FE-9D5F-1F45477B7B29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C548F7F3-75A0-48B2-818D-C9C990242564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C548F7F3-75A0-48B2-818D-C9C990242564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C548F7F3-75A0-48B2-818D-C9C990242564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C548F7F3-75A0-48B2-818D-C9C990242564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F20846-80AF-48DE-9AEF-9468DF060C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F20846-80AF-48DE-9AEF-9468DF060C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F20846-80AF-48DE-9AEF-9468DF060C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F20846-80AF-48DE-9AEF-9468DF060C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9241928A-76CC-4EC2-AF30-91D48EA6B3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9241928A-76CC-4EC2-AF30-91D48EA6B3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9241928A-76CC-4EC2-AF30-91D48EA6B3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9241928A-76CC-4EC2-AF30-91D48EA6B3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77366E48-961D-4B5B-81C3-78F34ADF6C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77366E48-961D-4B5B-81C3-78F34ADF6C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77366E48-961D-4B5B-81C3-78F34ADF6C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77366E48-961D-4B5B-81C3-78F34ADF6C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6C3648C-18C7-4E20-A722-858E2526F3B8}
+	EndGlobalSection
+EndGlobal

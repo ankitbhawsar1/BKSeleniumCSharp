@@ -1,0 +1,31 @@
+
+CSharp Training/.DS_Store
+CSharp Training/CSharp Basic/.DS_Store
+CSharp Training/CSharp Basic/bin/.DS_Store
+CSharp Training/CSharp Basic/obj/Debug/.DS_Store
+CSharp Training/CSharp Basic/obj/.DS_Store
+CSharp Training/SeleniumCSharpFramework/.DS_Store
+CSharp Training/SeleniumCSharpFramework/Data/.DS_Store
+
+# Visual Studio
+.vs/
+
+.DS_Store
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+**/[Bb]in/
+**/[Oo]bj/

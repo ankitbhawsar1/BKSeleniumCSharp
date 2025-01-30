@@ -1,0 +1,12 @@
+﻿{
+
+
+  "username": "rahulshettyacademy",
+  "password": "learning",
+  "username_wrong": "rrahulshettyacademy",
+  "password_wrong": "lrearning",
+  "expectedProduct": [ "iphone X", "Blackberry" ]
+
+
+}
+
